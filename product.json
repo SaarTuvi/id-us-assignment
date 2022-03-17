@@ -1,0 +1,80 @@
+{
+    "header": "Look of the month",
+    "title": "סט  כותנה סאטן מודפסים MIA",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "options": [
+        {
+            "title": "סט זוגי 160X200",
+            "price": "&#8362; 599.00",
+            "isInStock": true,
+            "pictures": [
+                "https://via.placeholder.com/600/0000FF/808080?text=1",
+                "https://via.placeholder.com/600/0000FF/808080?text=2",
+                "https://via.placeholder.com/600/0000FF/808080?text=3",
+                "https://via.placeholder.com/600/0000FF/808080?text=4",
+                "https://via.placeholder.com/600/0000FF/808080?text=5",
+                "https://via.placeholder.com/600/0000FF/808080?text=6"
+            ]
+        },
+        {
+            "title": "סט זוגי 180X200",
+            "price": "&#8362; 629.00",
+            "isInStock": true,
+            "pictures": [
+                "https://via.placeholder.com/600/00FFFF/808080?text=1",
+                "https://via.placeholder.com/600/00FFFF/808080?text=2",
+                "https://via.placeholder.com/600/00FFFF/808080?text=3",
+                "https://via.placeholder.com/600/00FFFF/808080?text=4"
+            ]
+        },
+        {
+            "title": "סט זוגי 200X200",
+            "price": "&#8362; 639.00",
+            "isInStock": true,
+            "pictures": [
+                "https://via.placeholder.com/600/00FF00/808080?text=1",
+                "https://via.placeholder.com/600/00FF00/808080?text=2",
+                "https://via.placeholder.com/600/00FF00/808080?text=3"
+            ]
+        },
+        {
+            "title": "סט יחיד 90X200",
+            "price": "&#8362; 449.00",
+            "isInStock": false,
+            "pictures": [
+                "https://via.placeholder.com/600/00FFFF/808080?text=1",
+                "https://via.placeholder.com/600/00FFFF/808080?text=2",
+                "https://via.placeholder.com/600/00FFFF/808080?text=3",
+                "https://via.placeholder.com/600/00FFFF/808080?text=4",
+                "https://via.placeholder.com/600/00FFFF/808080?text=5",
+                "https://via.placeholder.com/600/00FFFF/808080?text=6"
+            ]
+        },
+        {
+            "title": "סט זוגי כפול 160X200",
+            "price": "&#8362; 669.00",
+            "isInStock": false,
+            "pictures": [
+                "https://via.placeholder.com/600/0FFFFF/808080?text=1",
+                "https://via.placeholder.com/600/0FFFFF/808080?text=2",
+                "https://via.placeholder.com/600/0FFFFF/808080?text=3",
+                "https://via.placeholder.com/600/0FFFFF/808080?text=4",
+                "https://via.placeholder.com/600/0FFFFF/808080?text=5",
+                "https://via.placeholder.com/600/0FFFFF/808080?text=6"
+            ]
+        },
+        {
+            "title": "סט מיטה וחצי 120X200",
+            "price": "&#8362; 469.00",
+            "isInStock": true,
+            "pictures": [
+                "https://via.placeholder.com/600/FFF000/808080?text=1",
+                "https://via.placeholder.com/600/FFF000/808080?text=2",
+                "https://via.placeholder.com/600/FFF000/808080?text=3",
+                "https://via.placeholder.com/600/FFF000/808080?text=4",
+                "https://via.placeholder.com/600/FFF000/808080?text=5",
+                "https://via.placeholder.com/600/FFF000/808080?text=6"
+            ]
+        }
+    ]
+}

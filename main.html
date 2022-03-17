@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <script src="main.js"></script>
+    <script src="https://kit.fontawesome.com/412f957624.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="slider-container">
+        <div class="product-gallery-slider">
+            <div class="product-images-slider">
+            </div>
+            <div class="product-actions">
+
+                <a href="javascript:void(0)" onclick="changeHeartState();">
+                    <i id="liked" class="fa-regular fa-heart fa-lg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-6" style="padding:0px;">
+                <div class="product-gallery">
+                    <div class="product-images">
+                        <ul class="product-images-list">
+                        </ul>
+                    </div>
+                    <div class="product-actions">
+                        <a href="javascript:void(0)" onclick="changeHeartState();">
+                            <i id="liked" class="fa-regular fa-heart fa-lg"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6" id="product-card">
+                <div class="description-card">
+                    <div class="product-header">
+                        <h2></h2>
+                    </div>
+                    <div id="product-name">
+                        <h1></h1>
+                    </div>
+                    <div class="product-price">
+                        <span class="price">
+                            <p id="priceLabel"></p>
+                        </span>
+                    </div>
+                    <div class="product-options">
+                        <div class="product-options-list">
+                        </div>
+                    </div>
+                    <div>
+                        <div class="product-amount">
+                            <div class="product-amount-wrapper">
+                                <a href="javascript:void(0);" onclick="changeQuantity(-1)">-</a>
+                                <input type="number" min="1" max="10" id="quantity" value="1">
+                                <a href="javascript:void(0);" onclick="changeQuantity(1)">+</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="add-to-basket">
+                        <button>
+                            <span>הוספה לסל</span>
+                        </button>
+                    </div>
+                    <div class="product-info">
+
+                        <div class="tab">
+                            <div style="float:right" class="tab-button-container active">
+                                <button class="tablinks " onclick="changeTab(event, 'AboutItem')">על הפריט</button>
+                            </div>
+                            <div style="float:left" class="tab-button-container">
+                                <button class="tablinks" onclick="changeTab(event, 'Policy')">משלוחים והחזרות</button>
+                            </div>
+                        </div>
+
+                        <div id="AboutItem" class="tabcontent active" style="display: block;">
+                            <div class="product-description">
+                                <h3>על הפריט</h3>
+                                <p></p>
+                            </div>
+                        </div>
+
+                        <div id="Policy" class="tabcontent" style="display:none;">
+                            <h3>משלוחים והחזרות</h3>
+                            <p>do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
